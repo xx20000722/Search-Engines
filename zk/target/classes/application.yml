@@ -1,0 +1,4 @@
+#关掉缓冲
+spring:
+  thymeleaf:
+    cache: false
